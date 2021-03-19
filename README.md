@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Haris Ahmad
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning C++
+- 📫 You can reach me at hka5236@psu.edu
