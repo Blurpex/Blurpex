@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Haris Ahmad
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java and JavaScript
 - 📫 You can reach me at hka5236@psu.edu
