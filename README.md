@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Haris Ahmad
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java and JavaScript
-- 📫 You can reach me at hka5236@psu.edu
+- 🌱 I’m currently learning Spring Boot
+- 🔗 Connect with me at https://www.linkedin.com/in/haris--ahmad/
