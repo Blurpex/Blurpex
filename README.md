@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Haris Ahmad
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Spring Boot
-- 🔗 Connect with me at https://www.linkedin.com/in/haris--ahmad/
+- 🔗 Connect with me at linkedin.com/in/harisahmad24
